@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "contact_me",
+    "checked": false
+  },
+  {
+    "slug": "newsletter",
+    "checked": false
+  },
+  {
+    "slug": "push",
+    "checked": false
+  },
+  {
+    "slug": "looking_for_gigs",
+    "checked": false
+  },
+  {
+    "slug": "looking_for_part",
+    "checked": false
+  },
+  {
+    "slug": "looking_for_full",
+    "checked": false
+  },
+  {
+    "slug": "relocate",
+    "checked": false
+  },
+  {
+    "slug": "remote",
+    "checked": false
+  }
+]

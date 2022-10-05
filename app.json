@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "sdkVersion": "35.0.0",
+    "name": "Trabajamos",
+    "slug": "trabajamos",
+    "icon": "src/images/app-icon.png",
+    "privacy": "public",
+    "version": "0.0.1",
+    "scheme": "expa81a9ce7a6e44795a79b3f1adf8ebdb8",
+    "ios": {
+      "bundleIdentifier": "com.ameshkin.trabajamos",
+      "publishBundlePath": "ios/trabajamos/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/trabajamos/Supporting/shell-app-manifest.json"
+    },
+    "android": {
+      "package": "com.ameshkin.trabajamos",
+      "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
+      "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
+    },
+    "isDetached": false
+  }
+}

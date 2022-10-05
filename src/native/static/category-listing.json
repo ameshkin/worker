@@ -1,0 +1,67 @@
+{
+  "category": [{
+    "id": 1,
+    "status": 1,
+    "icon": "http://amir-meshkin.com/trabajamos/svg/repairing.svg",
+    "slug": "handyman",
+    "value": "handyman",
+    "label": "Handyman"
+  },
+    {
+      "id": 2,
+      "status": 1,
+      "icon": "http://amir-meshkin.com/trabajamos/svg/plumbing.svg",
+      "slug": "plumber",
+      "value": "plumber",
+      "label": "Plumber"
+    },
+    {
+      "id": 3,
+      "status": 1,
+      "icon": "http://amir-meshkin.com/trabajamos/svg/broom.svg",
+      "slug": "cleaners",
+      "value": "cleaners",
+      "label": "Cleaners"
+    },
+    {
+      "id": 4,
+      "status": 1,
+      "icon": "http://amir-meshkin.com/trabajamos/svg/moving-truck.svg",
+      "slug": "movers",
+      "value": "movers",
+      "label": "Movers"
+    },
+    {
+      "id": 7,
+      "status": 1,
+      "icon": "http://amir-meshkin.com/trabajamos/svg/designers.svg",
+      "slug": "designers",
+      "value": "designers",
+      "label": "Designers"
+    },
+    {
+      "id": 8,
+      "status": 1,
+      "icon": "http://amir-meshkin.com/trabajamos/svg/coding.svg",
+      "slug": "programmers",
+      "value": "programmers",
+      "label": "Programmers"
+    },
+    {
+      "id": 9,
+      "status": 1,
+      "icon": "http://amir-meshkin.com/trabajamos/svg/microphone.svg",
+      "slug": "musicians",
+      "value": "musicians",
+      "label": "Musicians"
+    },
+    {
+      "id": 5,
+      "status": 1,
+      "icon": "http://amir-meshkin.com/trabajamos/svg/delivery-truck.svg",
+      "slug": "delivery",
+      "value": "delivery",
+      "label": "Delivery"
+    }
+  ]
+}

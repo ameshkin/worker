@@ -1,0 +1,26 @@
+[{
+  "icon": "http://amir-meshkin.com/trabajamos/country/svg/it.svg",
+  "slug": "en",
+  "checked": false,
+  "status": 1
+}, {
+  "icon": "http://amir-meshkin.com/trabajamos/country/svg/es.svg",
+  "slug": "es",
+  "checked": false,
+  "status": 1
+}, {
+  "icon": "http://amir-meshkin.com/trabajamos/country/svg/fr.svg",
+  "slug": "fr",
+  "checked": false,
+  "status": 1
+}, {
+  "icon": "http://amir-meshkin.com/trabajamos/country/svg/fr.svg",
+  "slug": "it",
+  "checked": false,
+  "status": 1
+}, {
+  "icon": "http://amir-meshkin.com/trabajamos/country/svg/ir.svg",
+  "slug": "ir",
+  "checked": false,
+  "status": 1
+}]

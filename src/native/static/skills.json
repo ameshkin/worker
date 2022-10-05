@@ -1,0 +1,22 @@
+[{
+  "checked": false,
+  "icon": "check",
+  "color": "#02b50b",
+  "slug": "writer",
+  "status": 1
+},
+  {
+    "checked": false,
+    "icon": "check",
+    "color": "#02b50b",
+    "slug": "programming",
+    "status": 1
+  },
+  {
+    "checked": false,
+    "icon": "check",
+    "color": "#02b50b",
+    "slug": "publishing",
+    "status": 1
+  }
+]
